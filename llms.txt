@@ -339,6 +339,7 @@ Agent Skill 背后的命令行工具（当前 2.0.x，Node.js 20+），输出单
 - Skill 合集仓库：https://github.com/whobot-ai/skills
 - Skill 专用仓库：https://github.com/whobot-com/openclaw-whobot-skill
 - ClawHub：https://clawhub.ai/whobot/whobot-phonecall-skill
+- ModelScope 魔搭：https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill （`npx skills add https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill`）
 - skills.sh：https://www.skills.sh/whobot-ai/skills/whobot-phonecall-skill
 - npm：https://www.npmjs.com/package/@whobot/cli 、https://www.npmjs.com/package/@whobot/dsh-agent-whobot
 - 管理平台：https://work.whobot.com/
