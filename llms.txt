@@ -304,7 +304,7 @@ TTS（带有自然语调和情绪的实时语音合成）
 - 线索外呼：上传 Excel / JSON 线索，设置北京时间拨打时段和手机号去重；查询、暂停、恢复线索包（员工需先在管理平台上岗）
 - 账号：短信登录、退出、重置本机账号、查询企业总余额
 
-最简单的安装方式：把“请帮我安装这个 Skill：https://github.com/whobot-ai/skills/tree/main/skills/whobot-phonecall-skill”这句话发给 WorkBuddy、Claude Code、Codex、OpenClaw、Cursor 等 AI Agent，它会自行完成安装，装好后新开对话即可使用。WorkBuddy 使用指南：https://whobot-com.github.io/openclaw-whobot-skill/install/workbuddy.html
+最简单的安装方式：把“请帮我安装呼波特的电话 Skill https://github.com/whobot-com/openclaw-whobot-skill”这句话发给 WorkBuddy、Claude Code、Codex、OpenClaw、Cursor 等 AI Agent，它会自行完成安装，装好后新开对话即可使用。WorkBuddy 使用指南：https://whobot-com.github.io/openclaw-whobot-skill/install/workbuddy.html
 
 命令行与平台市场安装：
 
@@ -313,7 +313,7 @@ TTS（带有自然语调和情绪的实时语音合成）
 | 通用（Claude Code、Codex、Cursor、Cline、Gemini CLI、GitHub Copilot、Trae、Qoder、Qwen Code 等支持 Agent Skills 的工具） | `npx skills add whobot-ai/skills --skill whobot-phonecall-skill -g -y` |
 | Claude Code 插件市场 | `/plugin marketplace add whobot-ai/skills`，然后 `/plugin install whobot-skills@whobot-skills` |
 | OpenClaw（ClawHub） | `openclaw skills install @whobot/whobot-phonecall-skill` |
-| WorkBuddy | 对 WorkBuddy 说“帮我安装 whobot-ai/skills@whobot-phonecall-skill”，或复制到 `~/.workbuddy/skills/` |
+| WorkBuddy | 对 WorkBuddy 说“请帮我安装呼波特的电话 Skill https://github.com/whobot-com/openclaw-whobot-skill”，或复制到 `~/.workbuddy/skills/` |
 
 使用条件：宿主能执行本机命令，命令超时可设为 130 秒以上；CLI 需要 Node.js 20+，`npx skills` 安装工具需要 Node.js 22.20+。只能聊天、不能执行命令的环境只能回答产品问题。
 
