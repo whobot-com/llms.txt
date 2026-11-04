@@ -21,7 +21,7 @@
 
 The "开发者与 Agent 接入" (Developer & Agent Integrations) section of `llms.txt` covers three official integrations:
 
-- **Agent Skill** `whobot-phonecall-skill`: find benchmark agents, try calls, create and tune phone digital employees, and run lead outreach from Claude Code, Codex, OpenClaw, WorkBuddy, Cursor and more. Docs: <https://whobot-com.github.io/openclaw-whobot-skill/>
+- **Agent Skill** `whobot-phonecall-skill`: find benchmark agents, try calls, create and tune phone digital employees, and run lead outreach from Claude Code, Codex, OpenClaw, WorkBuddy, Cursor and more. Docs: <https://www.whobot.com/skills/docs/>
 - **DeepSeek Harness plugin** `@whobot/dsh-agent-whobot`: card-based agent marketplace, test calls, lead import and tuning.
 - **Official CLI** `@whobot/cli`: the command-line tool behind the Skill.
 

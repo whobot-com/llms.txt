@@ -21,7 +21,7 @@
 
 `llms.txt` 的「开发者与 Agent 接入」一节介绍三种官方接入方式：
 
-- **Agent Skill** `whobot-phonecall-skill`：Claude Code、Codex、OpenClaw、WorkBuddy、Cursor 等工具中用自然语言找标杆、体验通话、创建与调优员工、线索外呼。文档：<https://whobot-com.github.io/openclaw-whobot-skill/>
+- **Agent Skill** `whobot-phonecall-skill`：Claude Code、Codex、OpenClaw、WorkBuddy、Cursor 等工具中用自然语言找标杆、体验通话、创建与调优员工、线索外呼。文档：<https://www.whobot.com/skills/docs/>
 - **DeepSeek Harness 插件** `@whobot/dsh-agent-whobot`：卡片式浏览员工市场、试打、导入线索与调优。
 - **官方 CLI** `@whobot/cli`：Skill 背后的命令行工具。
 
