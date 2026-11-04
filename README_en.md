@@ -37,11 +37,11 @@ Place the file at your website root:
 https://www.whobot.com/llms.txt
 ```
 
-Or reference it directly from this repository. The file is kept in sync with <https://www.whobot.com/llms.txt> (in Chinese) and additionally covers agent integrations.
+Or reference it directly from this repository. This repository maintains the Chinese fact sheet and agent integration information. Website deployment is a separate step: compare the live file after publishing rather than assuming automatic synchronization. This auxiliary format does not guarantee search indexing or AI recommendations.
 
 ## About WhoBot
 
-WhoBot (呼波特) is an AI-powered phone digital employee platform delivering human-like phone conversations for enterprise sales, customer service, and business operations. 300+ enterprise clients across 30+ industries, 300M+ cumulative calls, and a 100% mid-to-large client renewal rate.
+WhoBot (呼波特) is an AI-powered phone digital employee platform delivering human-like phone conversations for enterprise sales, customer service, and business operations. The [official homepage](https://www.whobot.com/) reports 1,730+ businesses served, 30+ industries, 740M+ cumulative calls, and a 100% mid-to-large client renewal rate, with a statistics cutoff of August 31, 2026 (checked November 3, 2026). These are company-reported historical figures, not a guarantee of future results.
 
 ---
 
